@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Proyecto Malagoli</title>
+    <link rel="icon" type="image/png" href="alien-vs-predator.png"/>
+    
+</head>
+<body>
+    <header>
+        <section>
+            <h1>
+                ALIEN VS DEPREDATOR
+            </h1>
+        </section>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href=""> HOME </a>
+            </li>
+            <li>
+                <a href=""> CONTENT </a>
+            </li>
+            <li>
+                <a href="" > CONTACT </a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <section> 
+            <div> 
+                <img src="https://i.blogs.es/d388ec/avp/1366_2000.jpg" alt"Imgágen de Alien vs Depredator!" width="700"
+                height="450"/>
+            </div>
+            <div>
+                <p> <id="Depredator"></id>
+                    La vida del Depredador es muy triste. Nadie lo entiende. Tiene rulos osea,sangre verde,etc. 
+                    Pero lo bueno es que se hace invisible entonces puede hacer "toco y me voy" cuando quiera y nadie lo ve.
+                    Es un pillin n.n
+                </p>
+                <p> <id="Alien"></id>
+                    La vida del Alien es un poco mejor, porque tiene una buena burra y te chapa fuerte. También la pasa bien.
+                </p>
+            </div>
+            <div>
+            
+                <section>
+                    <div>
+                        <h2>
+                            Películas de Alien
+                        </h2>
+                    </div>
+                    <div>
+                        <ul>
+                            <li>
+                                    Alien 1
+                                </li>
+                                <li>
+                                    Alien 2
+                                </li>   
+                                <li>
+                                    Alien 3
+                                </li>   
+                                <li>
+                                    Alien 4
+                                </li>   
+                                <li>
+                                    Alien 5
+                                </li>
+                            </ul>
+                    </div>
+                
+                <div>
+                    <h2>
+                        Películas de Depredator
+                    </h2>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                                Depredator 1
+                            </li>
+                            <li>
+                                Depredator 2
+                            </li>   
+                            <li>
+                                Depredator 3
+                            </li>   
+                            <li>
+                                Depredator 4
+                            </li>   
+                            <li>
+                                Depredator 5
+                            </li>
+                        </ul>
+                            
+                </div>
+                </section>
+            </div>
+        </section>
+    </main>
+<br>
+<br>
+<br>
+       <section>
+        <aside>
+            <div>
+                <h2>
+                    Y mucho más!!
+                </h2>
+            </div>
+            <div>
+            <ol>
+                <li>
+                    Todo sobre Alien vs Depredator
+                </li>
+                <li>
+                    A queno sabes lo que encontrás aca!
+                </li>
+                <li>
+                    No te lo pierdas!
+                </li>
+                <li>
+                    Más
+                </li>
+            </ol>
+        </div>
+        </aside>
+       </section>
+</body>
+</html>
+
+
