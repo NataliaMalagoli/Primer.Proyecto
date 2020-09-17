@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+#titulo{
+    text-align:center;
+    font-size:80px;
+    margin-top:35px;
+    color:red !important;
+
+}
+
+
+p.texto {
+    margin-left:20px;
+    margin-right:20px;
+    font-size: 20px;
+}
+
+nav{
+    text-align: right;
+    margin-right:50px;
+    margin-top:20px;
+    word-spacing: 10px;
+}
+
+#alienigenas{
+
+    margin-left: 350px;
+}
+
+h2{
+
+    color: red;
+    text-decoration:overline;
+    margin-left:20px;
+   /* text-transform:capitalize;*/
+
+}
+
+table{
+
+    border:2px solid white;
+    margin-left:20px;
+}
+
+th{
+    border-bottom: 1px solid white;
+}
+
+.tdderecho{
+    border-left:1px solid white;
+}
+
+footer{
+
+    text-align: center;
+
+
+}
+.aliendepre{
+list-style:disc;
+
+}
+
+
+
+
+
+/*header {
+    background-color: orange;
+}
+nav {
+    background-color: yellow;
+}
+
+span {
+    background-color: green;
+}
+aside {
+    background-color:red;
+}
+article {
+    background-color:grey;
+}
+footer {
+    background-color: green;
+}*/
